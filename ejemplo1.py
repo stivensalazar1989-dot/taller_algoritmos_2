@@ -1,4 +1,4 @@
-
+#ejercicio numero 2
 """Crea un programa donde implementes una función para contar las vocales y 
 consonantes de un texto, palabra o párrafo ingresado, la función debe devolver un mensaje que 
 indique el numero de vocales y numero de consonantes del texto ingresado.
@@ -36,3 +36,4 @@ def contar_letras(texto):
 texto_usuario = input("ingrese un texto, palabra o parrafo: ")
 resultado = contar_letras(texto_usuario)
 print(resultado)
+
