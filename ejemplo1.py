@@ -14,7 +14,7 @@ limpiar_terminal()
 # Programa: Contar vocales y consonantes
 
 def contar_letras(texto):
-    # texto → palabra o frase ingresada por el usuario
+    # texto  palabra o frase ingresada por el usuario
     texto = texto.lower()  # Convertimos a minúsculas para simplificar el conteo
     vocales = "aeiou"
     numero_vocales = 0
@@ -36,4 +36,5 @@ def contar_letras(texto):
 texto_usuario = input("ingrese un texto, palabra o parrafo: ")
 resultado = contar_letras(texto_usuario)
 print(resultado)
+
 
