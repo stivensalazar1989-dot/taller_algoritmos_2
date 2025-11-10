@@ -1,3 +1,4 @@
+#ejercicio numero 3
 """ Escribe un programa que calcule el total a pagar en un restaurante incluyendo una propina. 
 Para ello, crea una función llamada calcular_propina que reciba dos parámetros: 
 el monto de la cuenta (un número decimal) y el porcentaje de propina (también un número decimal),
@@ -44,3 +45,4 @@ monto = float(input("ingrese el monto de la cuenta: "))
 porcentaje = float(input("ingrese el porcentaje de propina (%): "))
 #variable total
 mostrar_total(monto, porcentaje)
+
