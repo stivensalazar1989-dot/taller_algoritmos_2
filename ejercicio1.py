@@ -1,3 +1,4 @@
+#ejercicio numero 4
 """Crea un programa donde implementes una función para calcular las principales operaciones aritméticas de dos números, 
 la función tendrá tres parámetros ( operación, num1, num2 ) 
 y debe devolver el resultado de la operación aritmética indicada en el argumento . 
@@ -35,3 +36,4 @@ operacion = input(
 num1 = float(input("ingrese el primer numero: "))
 num2 = float(input("ingrese el segundo numero: "))
 print(calcular(operacion, num1, num1))
+
