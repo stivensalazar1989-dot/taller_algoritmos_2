@@ -1,3 +1,4 @@
+#ejercicio numero 4
 """Desarrolla un programa que determine el grupo etario de una persona según su edad. 
 Crea una función llamada obtener_grupo_etario que reciba un número entero correspondiente a la edad y 
 devuelva una cadena que indique si la persona es: "Niño" (0–12 años), "Adolescente" (13–17 años), "Adulto" (18–64 años) o 
@@ -50,4 +51,5 @@ while True:
 
 # Mostrar clasificación final
 resultado_final(nombre, edad)
+
 
